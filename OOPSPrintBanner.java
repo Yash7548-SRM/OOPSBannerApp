@@ -1,4 +1,4 @@
-public class OOPSPrintBanner {
+public class OOPSBanner {
 
     public static void main(String[] args) {
 
